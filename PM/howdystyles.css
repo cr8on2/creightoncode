@@ -1,0 +1,64 @@
+
+header {
+	position: relative;
+}
+
+ul {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+
+
+body {
+	color: #f60;
+	font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-style: italic;
+}
+
+p {
+	font-variant: small-caps;
+	font-weight: bold;
+	line-height: 20px;
+
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 50px;
+
+	color: orange; font-size: 20px
+
+}
+
+li {
+
+
+	color: purple; font-size: 40px
+}
+
+div {
+	background: #fff;
+	border: 6px solid #ccc;
+	height: 100px;
+	margin: 10px 20px;
+	padding: 20px;
+	width: 400px;
+}
+
+
+section {
+	float: left;
+	margin:10px;
+	width: 320px;
+}
+
+aside {
+	float: right;
+	margin: 10px;
+	width:320px;
+}
+
+footer {
+	clear: both;
+}
+
